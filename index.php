@@ -3,6 +3,7 @@
 require_once 'i18n.php';
 require __DIR__ . '/vendor/autoload.php';
 
-$params = array('user' => 'Daniel');
+$params = array('user' => 'Pablo');
 
-echo i18n::tr('welcome', $params,'de');
+//Display message
+echo i18n::tr('welcome', $params,'it');
