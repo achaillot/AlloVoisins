@@ -1,0 +1,3 @@
+de:
+  welcome: "Hallo"
+  welcome_user: "Hallo {{user}}"
